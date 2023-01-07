@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Relative Layout 1_2</string>
+    <string name="toast">Toast</string>
+    <string name="count">Count</string>
+    <string name="_0">0</string>
+    <string name="toast_message">Hello Toast!</string>
+</resources>
